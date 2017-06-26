@@ -6,9 +6,7 @@ import javax.persistence.Id;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
-/**
- * Created by Jeremy on 6/26/17.
- */
+
 @Entity
 public class Category {
 
